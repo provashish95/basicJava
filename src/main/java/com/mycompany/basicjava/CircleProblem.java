@@ -8,7 +8,7 @@ public class CircleProblem {
         Scanner input = new Scanner(System.in); 
         
         double radius, circle; 
-        
+        //dfgkhk
         System.out.print("Eneter radius: ");
         radius = input.nextDouble();
         
