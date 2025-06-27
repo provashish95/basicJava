@@ -15,7 +15,7 @@ public class Array_input {
 //        number[2] = input.nextDouble(); 
 //        number[3] = input.nextDouble(); 
 //        number[4] = input.nextDouble();
-        
+        //weuifhwfg
         for(int i = 0; i< number.length; i++){
             number[i] = input.nextDouble();
         }
