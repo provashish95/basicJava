@@ -13,6 +13,7 @@ public class String1 {
         System.out.println(fullName.startsWith("P"));
         System.out.println(fullName.endsWith("P"));
         System.out.println(fullName.endsWith("y"));
+        System.out.println(fullName.endsWith("i"));
 
     }
 }
