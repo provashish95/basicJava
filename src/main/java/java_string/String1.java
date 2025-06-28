@@ -12,6 +12,7 @@ public class String1 {
         System.out.println(fullName.toLowerCase());
         System.out.println(fullName.startsWith("P"));
         System.out.println(fullName.endsWith("P"));
+        System.out.println(fullName.endsWith("y"));
 
     }
 }
