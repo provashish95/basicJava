@@ -5,7 +5,11 @@ public class Car {
     String name, color;
     int number;
 
-    //Constructor of Car class
+    //Constructors of Car class
+    Car() {
+        System.out.println("No value");
+    }
+
     Car(String n, String c, int num) {
         name = n;
         color = c;
