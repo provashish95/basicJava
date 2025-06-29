@@ -16,6 +16,6 @@ public class Teacher {
         System.out.println("Name: " + name);
         System.out.println("Gender: " + gender);
         System.out.println("Phone: " + phone);
-    }
+    } 
 
 }
