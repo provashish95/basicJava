@@ -22,8 +22,6 @@ public class Test {
         teacher2.gender = "Male"; 
         teacher2.phone = 2766552; 
         
-        System.out.println("Name: " + teacher2.name);
-        System.out.println("Gender: " + teacher2.gender);
-        System.out.println("Phone: " + teacher2.phone);
+        teacher2.displayInformation();
     }
 }
