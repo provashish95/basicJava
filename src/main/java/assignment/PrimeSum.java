@@ -1,5 +1,5 @@
 /*
- Given array: numbers[] = {11,7,2,15,6} In the above array, sum of the prime numbers only. Output: 18
+ 2. Given array: numbers[] = {11,7,2,15,6} In the above array, sum of the prime numbers only. Output: 18
  */
 package assignment;
 

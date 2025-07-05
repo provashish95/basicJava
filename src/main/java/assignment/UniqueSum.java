@@ -1,5 +1,5 @@
 /*
- Given array: numbers[] = {11,7,7, 11, 2,15, 6, 6} Remove the duplicate values and then sum of the unique digits only. Output: 41
+ 3. Given array: numbers[] = {11,7,7, 11, 2,15, 6, 6} Remove the duplicate values and then sum of the unique digits only. Output: 41
  */
 package assignment;
 
